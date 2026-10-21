@@ -52,7 +52,7 @@
 ## 🌐 Live Demo
 
 **View the live dashboard here:**
-👉 [https://retail-dashboard-thg4wqvkio8vvqykgesj9t.streamlit.app/](https://retail-dashboard-thg4wqvkio8vvqykgesj9t.streamlit.app/)
+👉 [https://retaildashboard-divyat2605.streamlit.app/](https://retaildashboard-divyat2605.streamlit.app/)
 
 ---
 
